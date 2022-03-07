@@ -23,5 +23,9 @@ img{
     margin: auto;
 }
 footer{
-    background-color: blue;
+    background-color: #005677;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
 }
